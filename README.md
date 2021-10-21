@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mugiwarajeff
 - 👀 I’m interested in  aprender mais sobre o mundo da programação para poder me tornar um bom desenvolvedor de software.
-- 🌱 I’m currently learning  Python 3.9
+- 🌱 I’m currently learning  Python 3.9 && javascript - node
 - 📫 How to reach me- Intagram:@cerqueirajefferson and whatsapp:(77) 998587437
 
 <!---
