@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mugiwarajeff
-- 🌱 I’m currently learning  Python 3.9 && javascript - node 
+- 🌱 I’m currently Programming in Typescript - React - Adonis || Dart - Flutter 
 
 <div>
   <a href="https://github.com/mugiwarajeff">
